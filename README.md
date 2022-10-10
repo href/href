@@ -1,7 +1,7 @@
 <samp>
 <p>
 <b>NAME</b><br>
-       denis, krienbuehl - system and software engineer
+       denis, krienbuehl - senior system and software engineer
 </p>
 
 <p>
