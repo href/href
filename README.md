@@ -1,14 +1,11 @@
 <samp>
 <p>
 <b>NAME</b><br>
-       denis, krienbuehl - senior system and software engineer
+       denis, krienbuehl - senior platform engineer
 </p>
 
 <p>
 <b>DESCRIPTION</b><br>
-       Husband and father at home, system engineer at <a href="https://www.cloudscale.ch">cloudscale.ch</a>,<br>
-       organiser at the <a href="https://python-summit.ch">Swiss Python Summit</a>.
-       <br><br>
        Used to tackle projects on common POSIX platforms.
 </p>
 
